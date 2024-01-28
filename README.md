@@ -12,6 +12,6 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) |&nbsp; 
-   [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) |&nbsp; 
-   [<img loading="lazy" src="https://avatars.githubusercontent.com/u/82901003?v=4" width=115><br><sub>Rogério Oliveira</sub>](https://github.com/New-Masster) |&nbsp; :---: |  
+|  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro)
+|  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) |&nbsp;
+|  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/82901003?v=4" width=115><br><sub>Rogério Oliveira</sub>](https://github.com/New-Masster) |&nbsp;|  
